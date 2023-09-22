@@ -1,0 +1,17 @@
+.volleyballtype .img
+{
+  height: 400px;
+  box-shadow: 3px 3px 5px 6px #ccc;
+  width: 400px;
+  margin-top: 20px;
+  margin-left: 40%;
+}
+
+.volleyballtype .type
+{
+  color: black;
+  font-weight: 700;
+  font-size: 35px;
+  margin-left: 50%;
+
+}

@@ -1,0 +1,8 @@
+div.content {   
+    margin-left: 300px;
+    padding: 20px 40px;
+    height: 100vh;
+    margin-top: 10px;
+    margin-right: 10px;
+    box-shadow: 3px 3px 5px 6px #ccc4c4;
+  }
